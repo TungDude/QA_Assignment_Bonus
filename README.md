@@ -48,8 +48,8 @@ Assignment: Sertis QA Intern
    python main.py
 
 3. Test results will be displayed in the terminal.
-   
-4. When you are finished with testing, deactivate the virtual environment.
+4. Images in the Screenshots directory provide visual results for each stage, for manual proof.
+5. When you are finished with testing, deactivate the virtual environment.
    
    ```bash
    deactivate
